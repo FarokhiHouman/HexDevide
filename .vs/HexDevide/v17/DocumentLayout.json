@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Sohan-Labratury\\HexDevide\\HexDevide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250C6E55-367C-443F-AE9E-2C68418EC30D}|HexDevide\\HexDevide.csproj|e:\\sohan-labratury\\hexdevide\\hexdevide\\hexdevide\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{250C6E55-367C-443F-AE9E-2C68418EC30D}|HexDevide\\HexDevide.csproj|solutionrelative:hexdevide\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C6E55-367C-443F-AE9E-2C68418EC30D}|HexDevide\\HexDevide.csproj|e:\\sohan-labratury\\hexdevide\\hexdevide\\hexdevide\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250C6E55-367C-443F-AE9E-2C68418EC30D}|HexDevide\\HexDevide.csproj|solutionrelative:hexdevide\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "E:\\Sohan-Labratury\\HexDevide\\HexDevide\\HexDevide\\frmMain.cs",
+              "RelativeDocumentMoniker": "HexDevide\\frmMain.cs",
+              "ToolTip": "E:\\Sohan-Labratury\\HexDevide\\HexDevide\\HexDevide\\frmMain.cs",
+              "RelativeToolTip": "HexDevide\\frmMain.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAswBQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T06:00:59.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\Sohan-Labratury\\HexDevide\\HexDevide\\HexDevide\\frmMain.cs",
+              "RelativeDocumentMoniker": "HexDevide\\frmMain.cs",
+              "ToolTip": "E:\\Sohan-Labratury\\HexDevide\\HexDevide\\HexDevide\\frmMain.cs [Design]",
+              "RelativeToolTip": "HexDevide\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T06:00:50.895Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
