@@ -12,9 +12,10 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Houman\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Houman\\.nuget\\packages",
-      "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+      "C:\\Users\\farok\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\farok\\.nuget\\packages",
+      "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
